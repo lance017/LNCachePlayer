@@ -1,0 +1,19 @@
+platform:ios,'8.0'
+use_frameworks!
+target 'LNCachePlayer' do
+  # 网络
+  # pod 'Alamofire'
+  # 图片
+  # pod 'ImageHelper'
+  # 数据解析
+  # pod 'SwiftyJSON'
+  # pod 'HandyJSON'
+  # 界面自适应
+  pod 'SnapKit','3.2.0'
+  # 数据库
+  # pod 'SQLite.swift'
+  # pod 'SugarRecord/Realm'
+  # 下拉刷新和加载
+  # pod "ESPullToRefresh"
+
+end
